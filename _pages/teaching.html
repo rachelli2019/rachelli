@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+<p>I have served as a Teaching Fellow for the following courses.</p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% for post in site.data.teaching %}
+  {% include teaching.html %}
 {% endfor %}

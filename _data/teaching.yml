@@ -1,0 +1,12 @@
+- course: 'Stat 110: Introduction to Probabilty'
+  dates: "Fall 2020, 2021, 2022"
+  link: 'stat_110_template_guide.pdf'
+  materials: true
+  guide: "Guide to Using Ginnie + Rachel's Stat 110 Section Notes Template.pdf"
+  tex: "https://drive.google.com/file/d/1ApXyZKK-M0yT4JMa2iukZJoX8GoTzZGU/view?usp=sharing"
+
+- course: 'Stat 111: Introduction to Statistical Inference'
+  dates: "Spring 2021, 2022, 2023"
+
+- course: 'Stat 123: Quantitative Finance'
+  dates: "Spring 2022"
